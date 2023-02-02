@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajagopal-neralla
-- 👀 I’m interested in automation, Java, Python, AI/ML and Metverse and 
-- 🌱 I’m currently learning Python and AI/ML
+- 👀 I’m interested in automation, Java, Python, AI/ML and Metaverse, 
 - 💞️ I’m looking to collaborate on automation related initiatives
 
 <!---
